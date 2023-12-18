@@ -1,4 +1,4 @@
-#### Loja virtual Bruna Tavares
+#### Loja virtual Bruna Tavares 💄💋
 A loja de produtos de make foi inspirada no site: https://www.linhabrunatavares.com/
 <div style="display: inline_block">
   <img align="center" height="450" src="https://github.com/talitacodes/curso_startto.dev/assets/73146109/cd371d7b-a35b-48be-8ea5-8b57734611b1" />
